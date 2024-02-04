@@ -1,0 +1,1 @@
+export { default } from "file:///Users/naveinthirankulaendran/Downloads/youtube2023-nuxt3-vuetify3-cart/nuxt3-cart/node_modules/.pnpm/@nuxt+vite-builder@3.0.0_sass@1.70.0_vue@3.4.15/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
